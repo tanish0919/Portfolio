@@ -1,7 +1,7 @@
 import React from 'react';
 import "./header.css";
 import CTA from  "./CTA";
-import ME from "../../assets/me.png"
+import ME from "../../assets/IMG20231017100748-removebg-preview.png";
 import HeaderSocial from './HeaderSocial';
 import ScrollImg from '../../assets/clipart527622.png'
 
